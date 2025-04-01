@@ -10,7 +10,7 @@ A customized Neovim setup focused on productivity and a pleasant development exp
   - Native file explorer via `<leader>pv`
   - Harpoon for quick file switching between marked files
 - **Development Tools**:
-  - Language Server Protocol (LSP) integration via lsp-zero
+  - Language Server Protocol (LSP) integration via lsp-zero (with lua-snip configured)
   - Treesitter for enhanced syntax highlighting
   - GitHub Copilot for AI-assisted coding
   - Undotree for visualizing change history
