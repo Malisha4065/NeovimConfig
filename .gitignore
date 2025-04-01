@@ -1,0 +1,10 @@
+# Swap, backup, and undo files
+swap/
+backup/
+undodir/
+session/
+plugin/
+!after/plugin/
+packer_compiled.lua
+lazy-lock.json
+
