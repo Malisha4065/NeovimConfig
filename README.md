@@ -23,7 +23,7 @@ A customized Neovim setup focused on productivity and a pleasant development exp
 
 1. Clone this repository to your Neovim configuration directory:
    ```bash
-   git clone https://github.com/yourusername/nvim-config.git ~/.config/nvim
+   git clone https://github.com/Malisha4065/NeovimConfig.git ~/.config/nvim
    ```
 
 2. Install [Packer](https://github.com/wbthomason/packer.nvim) for plugin management:
